@@ -1,0 +1,9 @@
+Błąd z merge B:
+dodaj lub usun problematyczny:
+git add plik.txt lub git rm plik.tzt
+
+Błąd z masterem:
+
+git pull origin master --allow-unrelated-histories
+
+git push origin master
